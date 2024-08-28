@@ -1,0 +1,8 @@
+The nefarious thing about performance bugs is that the user may never
+know they are there - the program appears to work correctly, carrying out
+the correct operations, showing the right thing on the screen or printing
+the right text. It just does it a bit more slowly than it should have. It takes
+an experienced programmer, with a reasonably accurate mental model of
+the problem and the correct solution, to know how fast the operation
+should have been performed, and hence if the program is running slower
+than it should be
