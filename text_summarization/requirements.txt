@@ -1,0 +1,13 @@
+# Core Libraries
+nltk==3.8.1
+sumy==0.10.0
+transformers==4.30.0
+torch==2.0.1
+
+# Web App Deployment
+streamlit==1.26.0
+flask==2.3.2
+
+# Additional Utilities
+numpy==1.24.3
+pandas==2.0.3
