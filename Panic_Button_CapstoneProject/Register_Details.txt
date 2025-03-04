@@ -1,0 +1,7 @@
+Key Registers:
+- STATUS: Used for bank selection and flag checks.
+- TXSTA: Controls USART transmission settings.
+- RCSTA: Controls USART reception settings.
+- SPBRG: Sets the baud rate for USART communication.
+- PORTD: Controls LED outputs.
+- PORTA: Reads the panic button input.

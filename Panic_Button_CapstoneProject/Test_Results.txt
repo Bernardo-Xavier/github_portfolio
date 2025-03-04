@@ -1,0 +1,11 @@
+Test 1: Initialization
+- Result: LEDs RD0 and RD1 lit up. GSM module initialized successfully.
+
+Test 2: Button Press
+- Result: LED RD2 lit up. SMS sent successfully to the predefined number.
+
+Test 3: Power Stability
+- Result: System remained stable during prolonged operation.
+
+Test 4: Error Handling
+- Result: System handled GSM module errors gracefully by retrying the SMS transmission.

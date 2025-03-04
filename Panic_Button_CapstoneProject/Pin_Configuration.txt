@@ -1,0 +1,8 @@
+PIC16F877A Pin Configuration:
+- RA0: Panic Button Input
+- RD0: LED 1 (Initialization Status)
+- RD1: LED 2 (Waiting for Button Press)
+- RD2: LED 3 (Sending SMS)
+- RD3: LED 4 (SMS Sent)
+- TX:  RC6 (USART Transmit to GSM Module)
+- RX:  RC7 (USART Receive from GSM Module)
