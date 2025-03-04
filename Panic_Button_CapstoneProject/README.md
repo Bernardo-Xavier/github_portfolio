@@ -37,13 +37,6 @@ This project, titled **"Panic Button"**, is a safety device designed to detect e
    - Power on the system and wait for the initialization to complete.
    - Press the panic button to trigger an SMS alert.
 
-## Folder Structure
-- **Code/**: Contains the main assembly code and documentation.
-- **Schematics/**: Circuit diagrams and PCB layouts.
-- **Documentation/**: Project report, blog post, and presentation materials.
-- **Tests/**: Test results and debug logs.
-- **Resources/**: Datasheets and reference materials.
-
 ## License
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
 
