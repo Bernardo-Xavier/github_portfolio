@@ -29,3 +29,7 @@ streamlit run app.py
 3. HuggingFace Transformers
 
 4. OpenAI API
+
+## Demo:
+
+https://github.com/user-attachments/assets/46a94b43-3f99-406e-b3d6-9cb1304e0768
