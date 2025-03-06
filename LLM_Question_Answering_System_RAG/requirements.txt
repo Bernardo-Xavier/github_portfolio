@@ -1,0 +1,5 @@
+langchain
+streamlit
+huggingface-hub
+openai
+faiss-cpu
