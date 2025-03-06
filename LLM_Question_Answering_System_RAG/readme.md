@@ -32,6 +32,6 @@ streamlit run app.py
 
 ## Demo:
 
-## Demo
+https://github.com/user-attachments/assets/9053287c-0211-4b61-aa0e-4d918e3b8e2e
 
-![screenshot](media/testing.png)
+
